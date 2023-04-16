@@ -1,0 +1,9 @@
+google_api_python_client==1.12.8
+google_auth_oauthlib==0.4.2
+instaloader==4.5.5
+moviepy==1.0.3
+openai==0.27.4
+protobuf==3.14.0
+schedule==0.6.0
+selenium==4.8.3
+gallery-dl==1.25.1
